@@ -1,5 +1,5 @@
 # Authors(Team): Sainath Chettupally, Sai Satwik Yarapothini, Srikar Gowrishetty
-# Date: 10-06-2024
+# Date: 11-02-2024
 # Overview: This script simulates a Tic-Tac-Toe game where a human player competes against an ML model.
 # The human player and the model take turns placing their respective marks ('X' or 'O') on a 3x3 grid.
 # The model is trained using a dataset of Tic-Tac-Toe board states to predict optimal moves.
